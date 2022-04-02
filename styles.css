@@ -2,3 +2,11 @@
   margin: auto;
   max-width: 64rem;
 }
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 0.5rem;
+}
